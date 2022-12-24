@@ -1,0 +1,4 @@
+Flappy[[:space:]]Bird filter=lfs diff=lfs merge=lfs -text
+Flappy[[:space:]]Bird/ filter=lfs diff=lfs merge=lfs -text
+Flappy[[:space:]]Bird/** filter=lfs diff=lfs merge=lfs -text
+FlappyPigeon/Flappy_Bird/* filter=lfs diff=lfs merge=lfs -text
